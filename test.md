@@ -64,3 +64,12 @@ In case you need more commands I'm inserting a link to [Git_cheat_sheet](https:/
 + **git clone** - cloning some repository
 + **git pull** - pulling updates from  gitHub
 + **git push** - pushing updates to gitHub
+
+#### Forking
+
+We create a our fork from the needed rep on the gitHub
+We clone our version
+Create a separate branch with our suggested changes
+Make all the corrections and changes only on this branch
+Push all these changes onto your account @gitHub
+On github you will see a button "pull request" which allows you to send a request to the project owner asking to accept your suggested changes.
