@@ -67,9 +67,9 @@ In case you need more commands I'm inserting a link to [Git_cheat_sheet](https:/
 
 #### Forking
 
-We create a our fork from the needed rep on the gitHub
-We clone our version
-Create a separate branch with our suggested changes
-Make all the corrections and changes only on this branch
-Push all these changes onto your account @gitHub
-On github you will see a button "pull request" which allows you to send a request to the project owner asking to accept your suggested changes.
+1. We create a our fork from the needed rep on the gitHub
+2. We clone our version
+3. Create a separate branch with our suggested changes
+4. Make all the corrections and changes only on this branch
+5. Push all these changes onto your account @gitHub
+6. On github you will see a button __"pull request"__ which allows you to send a request to the project owner asking to accept your suggested changes.
