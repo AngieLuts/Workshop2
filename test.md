@@ -50,7 +50,7 @@ In case you need more commands I'm inserting a link to [Git_cheat_sheet](https:/
 > **git log -graph** - log shown with graphics
 
 
-In order to delete branch you can use these commands:
+#### *In order to delete a branch you can use these commands:*
  + *git branch -d* - this command checks if the branch was previously merged and then deletes it
 
  + *git branch -D'* - this command doesnt check merging. It just deletes selected branch
